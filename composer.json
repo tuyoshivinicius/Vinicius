@@ -1,5 +1,5 @@
 {
-	"name":"Tuyoshi Vinicius",
+	"name":"tuyoshivinicius/vinicius",
     "autoload": {
         "psr-4": {
             "Vinicius\\": "src/"
